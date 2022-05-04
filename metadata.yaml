@@ -1,0 +1,33 @@
+_repo: Gerald-Eversley-s-Friendship-A-Study-in-Real-Life_67914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Welldon, J. E. C. (James Edward Cowell)
+    alias: Welldon, James Edward Cowell
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '46692'
+    url: http://www.gutenberg.org/2009/agents/46692
+    wikipedia: https://en.wikipedia.org/wiki/James_Welldon
+description: ''
+gutenberg_issued: '2022-04-24'
+identifiers:
+  gutenberg: '67914'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uiuc.2151354
+pgterms:marc905: 20200421063801welldon
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Smith, Elder & Co.,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Endowed public schools (Great Britain) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Friendship in youth -- Fiction'
+- GITenberg
+title: 'Gerald Eversley''s Friendship: A Study in Real Life'
+url: http://www.gutenberg.org/ebooks/67914
